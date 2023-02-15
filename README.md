@@ -33,6 +33,7 @@ I'm a greek student of AUTH university studying electrical and computer engineer
 <img width ='44px' align='center' style="margin-left:2px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='44px' align='center' style="margin-left:2px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>
 <img width ='44px' align='center' style="margin-left:2px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'>
+<img width ='44px' align='center' style="margin-left:2px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 </br>
 
 <br>
