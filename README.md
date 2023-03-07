@@ -6,11 +6,8 @@ I'm a greek student of AUTH university studying electrical and computer engineer
 
 
 
-![panospro's GitHub stats](https://github-readme-stats.vercel.app/api?username=panospro&count_private=true&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panospro&langs_count=8&theme=dark&layout=compact&hide_border=true)
-
-
-
+![panospro's GitHub stats](https://github-readme-stats.vercel.app/api?username=panospro&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=panospro&theme=tokyonight" alt="mystreak"/>
 
 
 <h2 align='center' style="margin-buttom:3px"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px height = 45px> </h2>
