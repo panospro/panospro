@@ -4,10 +4,12 @@
 I'm a greek student of AUTH university studying electrical and computer engineering.All coding projects are built from the ground up. 
 ---
 
-
-
-![panospro's GitHub stats](https://github-readme-stats.vercel.app/api?username=panospro&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=panospro&theme=tokyonight" alt="mystreak"/>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=panospro&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="panospro's GitHub stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=panospro&theme=tokyonight" alt="panospro's streak stats"/></td>
+  </tr>
+</table>
 
 
 <h2 align='center' style="margin-buttom:3px"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 45px height = 45px> </h2>
